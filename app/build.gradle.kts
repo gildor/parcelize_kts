@@ -23,6 +23,6 @@ androidExtensions {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.10")
     implementation("com.android.support:appcompat-v7:28.0.0")
 }
