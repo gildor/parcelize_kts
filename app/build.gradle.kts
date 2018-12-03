@@ -24,4 +24,5 @@ androidExtensions {
 
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.10")
+    implementation("org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.10")
 }
